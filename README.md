@@ -30,6 +30,11 @@ Conquering a 6-stage arena requires a computational brain that can multitask wit
 ---
 
 ## ⚙️ Mechanical & Hardware Engineering
+
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/b346eb5c-6ed3-4aa0-9e05-c8a8130ebe4c" />
+
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/bf30c351-3009-4f9e-8e37-ce2e490de83a" />
+
 Beyond the software, the physical robot was custom-designed to handle the physical abuse of the arena.
 
 * **Chassis Design:** Custom-lasered multi-tier acrylic chassis for optimized weight distribution and modular component mounting.
